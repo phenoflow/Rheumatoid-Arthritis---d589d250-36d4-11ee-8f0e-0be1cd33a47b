@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/arthritis---primary.py
+inputModule3:
+  class: File
+  path: python/rheumatoid-arthritis-deviation---primary.py
+inputModule4:
+  class: File
+  path: python/rheumatoid-arthritis---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-arthritis-monitoring---primary.py
+inputModule6:
+  class: File
+  path: python/rheumatoid-arthritis-invitation---primary.py
+inputModule7:
+  class: File
+  path: python/rheumatoid-arthritis-letter---primary.py
+inputModule8:
+  class: File
+  path: python/still-rheumatoid-arthritis---primary.py
+inputModule9:
+  class: File
+  path: python/arthropathy-rheumatoid-arthritis---primary.py
+inputModule10:
+  class: File
+  path: python/rheumatoid-arthritis-spine---primary.py
+inputModule11:
+  class: File
+  path: python/rheumatoid-arthritis-joint---primary.py
+inputModule12:
+  class: File
+  path: python/rheumatoid-arthritis-ulnar---primary.py
+inputModule13:
+  class: File
+  path: python/rheumatoid-arthritis-finger---primary.py
+inputModule14:
+  class: File
+  path: python/other-rheumatoid-arthritis---primary.py
+inputModule15:
+  class: File
+  path: python/rheumatoid-arthritis-nodule---primary.py
+inputModule16:
+  class: File
+  path: python/rheumatoid-arthritis-felty's---primary.py
+inputModule17:
+  class: File
+  path: python/systemic-rheumatoid-arthritis---primary.py
+inputModule18:
+  class: File
+  path: python/seropositive-rheumatoid-arthritis---primary.py
+inputModule19:
+  class: File
+  path: python/rheumatoid-arthritis-caplan's---primary.py
+inputModule20:
+  class: File
+  path: python/rheumatoid-arthritis-history---primary.py
+inputModule21:
+  class: File
+  path: python/rheumatoid-arthritis---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
